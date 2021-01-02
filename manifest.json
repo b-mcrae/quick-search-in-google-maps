@@ -1,0 +1,17 @@
+{
+  "name": "Quick Search in Google Maps",
+  "version": "1.0",
+  "description": "Highlight text and search for it in Google Maps.",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "images/google_maps_icon16.png",
+    "32": "images/google_maps_icon32.png",
+    "48": "images/google_maps_icon48.png",
+    "128": "images/google_maps_icon128.png"
+  },
+  "manifest_version": 2
+}
