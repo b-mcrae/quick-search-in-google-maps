@@ -1,5 +1,9 @@
 # quick-search-in-google-maps
-Chrome Extension to quickly search for highlighted text in Google Maps.
+A Chrome Extension to quickly search for highlighted text in Google Maps.
+
+[Chrome Extension in the Chrome Web Store](https://chrome.google.com/webstore/detail/quick-search-in-google-ma/hjliomclebcdfajmgaabchojkoebbali)
+
+Thank you so much to the amazing [Karena](http://karenaxcai.com/) for the logo!
 
 ![screenshot_1](./images/screenshot_1.png?raw=true "Screenshot 1")
 
